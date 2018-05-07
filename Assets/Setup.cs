@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Setup : MonoBehaviour
 {
+    /*
     static int TARGET_FRAME_RATE = 10;
 
     void Awake()
@@ -11,7 +12,9 @@ public class Setup : MonoBehaviour
         QualitySettings.vSyncCount = 0;
         Application.targetFrameRate = TARGET_FRAME_RATE;
     }
+    */
 
+    /*
     void Update()
     {
         Debug.Log("Update Called");
@@ -21,4 +24,5 @@ public class Setup : MonoBehaviour
     {
         Debug.Log("FixedUpdate Called");
     }
+    */
 }
