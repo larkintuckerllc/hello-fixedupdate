@@ -14,7 +14,7 @@ public class Setup : MonoBehaviour
     }
     */
 
-    /*
+ 
     void Update()
     {
         Debug.Log("Update Called");
@@ -24,5 +24,4 @@ public class Setup : MonoBehaviour
     {
         Debug.Log("FixedUpdate Called");
     }
-    */
 }
